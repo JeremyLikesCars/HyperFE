@@ -2,7 +2,8 @@
 - This project is solely for fun
 - I test my scripting skills by making this
 
-Server: https://img.shields.io/discord/123
+# Get the script:
 
-[Images:] (http://jeremylikescars.tk/Misc/rock.png)
- 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JeremyLikesCars/HyperFE/main/loader.lua"))()
+```
