@@ -10,4 +10,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JeremyLikesCars/Hyper
 
 # Notes
 
-* test
+* This project is open source
+* You are free to skid and steal stuff off of this project without any credit to me
+* This project may or may not be worked on in the future
